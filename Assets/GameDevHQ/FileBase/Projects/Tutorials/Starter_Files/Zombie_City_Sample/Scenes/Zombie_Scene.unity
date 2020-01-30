@@ -3294,7 +3294,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &653260036
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9392,7 +9392,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zombie: {fileID: 5869788459539130485, guid: 8255f522362799a44bad990d02af1b9f, type: 3}
-  delayTime: 10
+  delayTime: 3
 --- !u!4 &1520442400
 Transform:
   m_ObjectHideFlags: 0
